@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/adrianodpdiaz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adrianodpdiaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianodpdiaz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=adrianodpdiaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adrianodpdiaz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <p align="left">
